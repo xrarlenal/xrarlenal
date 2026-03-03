@@ -2,7 +2,7 @@
 
 Hi there, I'm **Parasomnia**! 你可以叫我 **Apara** 或者 **楠小猫**～
 
-一只来自深圳的猫猫程序员，日常远程工作，精神状态随机波动中 🐱
+猫猫程序员，精神状态随机波动中 🐱
 
 ---
 
@@ -23,10 +23,10 @@ Hi there, I'm **Parasomnia**! 你可以叫我 **Apara** 或者 **楠小猫**～
 ### 🎨 创意 & 多媒体
 [![My Creative Tools](https://skillicons.dev/icons?i=ps,pr,ae,blender)](https://skillicons.dev)
 
-**还有更多：**
-- 📹 **视频剪辑**：Final Cut Pro, DaVinci Resolve
-- 🖥️ **3D 创作**：Cinema 4D (C4D)
-- 🔬 **逆向工程**：Cheat Engine, IDA Pro, x64dbg, GDB, Ollydbg
+**更多的：**
+- 📹 **剪辑**：Final Cut Pro, DaVinci Resolve
+- 🖥️ **3D**：Cinema 4D (C4D)
+- 🔬 **逆向**：Cheat Engine, IDA Pro, x64dbg, GDB, Ollydbg
 
 ---
 
@@ -34,16 +34,7 @@ Hi there, I'm **Parasomnia**! 你可以叫我 **Apara** 或者 **楠小猫**～
 
 - 🇨🇳 简体中文 (母语)
 - 🇬🇧 英语 (流利)
-- 🇭🇰 粤语 (基础)
-
----
-
-## ✈️ 代码之外的生活
-
-- 🚆🚇 轨道交通迷
-- 🧤 舞萌 DX 玩家
-- 💳 卡片收集爱好者
-
+- 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Parasomnia&color=blueviolet&style=flat-square)

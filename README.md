@@ -8,22 +8,22 @@ Hi there, I'm **Parasomnia**! 你可以叫我 **Apara** 或者 **楠小猫**～
 
 ## 🛠️ 技术栈 & 工具
 
-### 💻 操作系统
+### 💻 Operating
 [![My OS](https://skillicons.dev/icons?i=apple,linux,ubuntu,debian,kali,arch)](https://skillicons.dev)
 
-### 📝 编程语言
+### 📝 Coding
 [![My Languages](https://skillicons.dev/icons?i=c,cpp,rust,java,cs,go,js,ts)](https://skillicons.dev)
 
-### 🏗️ 框架 & 库
+### 🏗️ Framework & library
 [![My Frameworks](https://skillicons.dev/icons?i=vue,react)](https://skillicons.dev)
 
-### 🔧 开发工具
+### 🔧 Dev Tools
 [![My Dev Tools](https://skillicons.dev/icons?i=vscode,visualstudio,clion,idea,rider,goland)](https://skillicons.dev)
 
-### 🎨 创意 & 多媒体
+### 🎨 And More media
 [![My Creative Tools](https://skillicons.dev/icons?i=ps,pr,ae,blender)](https://skillicons.dev)
 
-**更多的：**
+**我还喜欢：**
 - 📹 **剪辑**：Final Cut Pro, DaVinci Resolve
 - 🖥️ **3D**：Cinema 4D (C4D)
 - 🔬 **逆向**：Cheat Engine, IDA Pro, x64dbg, GDB, Ollydbg

@@ -9,7 +9,7 @@ Hi there, I'm **Parasomnia**! 你可以叫我 **Apara** 或者 **楠小猫**～
 ## 🛠️ 技术栈 & 工具
 
 ### 💻 操作系统
-[![My OS](https://skillicons.dev/icons?i=macos,linux,ubuntu,debian,kali,arch)](https://skillicons.dev)
+[![My OS](https://skillicons.dev/icons?i=apple,linux,ubuntu,debian,kali,arch)](https://skillicons.dev)
 
 ### 📝 编程语言
 [![My Languages](https://skillicons.dev/icons?i=c,cpp,rust,java,cs,go,js,ts)](https://skillicons.dev)
